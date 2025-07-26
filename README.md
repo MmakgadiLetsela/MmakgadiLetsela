@@ -11,7 +11,9 @@ She/Her
 - Responsive Design
 
 ## 🛫 Currently learning
-CSS frameworks: Bootstrap and Tailwind
+CSS frameworks:
+-Boostrap
+-Tailwind
 
 ## Looking to collaborate on: 
 Anything and everything. I appreciate any opportunity for growth. 
@@ -28,3 +30,5 @@ I have never been on an airplane and hope that soon I will be able to tick that 
 ## 📱 How to contact me
 - LinkedIn: www.linkedin.com/in/mmakgadi-letsela-5bb4ab373
 - Email: <mmakgadi.letsela@gmail.com>
+
+Thank you for visiting my github 🧚‍♀️
