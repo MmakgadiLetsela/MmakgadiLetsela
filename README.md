@@ -1,16 +1,30 @@
-## Hi there 👋
+ ### Hello there 👋
 
-<!--
-**MmakgadiLetsela/MmakgadiLetsela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ My name is Mmakgadi Letsela and I am a 24 year old woman currently studying software development with CodeSpace Academy. 
 
-Here are some ideas to get you started:
+## 🧍Pronouns
+She/Her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻Skills and Technologies
+- HTML
+- CSS
+- Responsive Design
+
+## 🛫 Currently learning
+CSS frameworks: Bootstrap and Tailwind
+
+## Looking to collaborate on: 
+Anything and everything. I appreciate any opportunity for growth. 
+
+## ⚙️ Currently working on 
+Piece of final portfolio. 
+
+## 📂 My Projects
+Check out some of the projects I have completed in the pinned repos below.
+
+## 🎆 Fun Fact
+I have never been on an airplane and hope that soon I will be able to tick that goal off. 
+
+## 📱 How to contact me
+- LinkedIn: www.linkedin.com/in/mmakgadi-letsela-5bb4ab373
+- Email: <mmakgadi.letsela@gmail.com>
