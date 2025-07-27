@@ -3,9 +3,9 @@
  My name is Mmakgadi Letsela and I am a 24 year old woman currently studying software development with CodeSpace Academy. 
 
 ## About Me 💃
-I am an aspiring software developer who transitioned to tech after a financial situation prevented me from completing a degree in Accounting. 😞
-I am a receipient of the Digiata Scholarship at CodeSpace 🎊
-The world of tech and, coding in particular, has been a really challenging but exciting experience for me and I cannot wait to take advantage of all it has to offer. 😃
+- I am an aspiring software developer who transitioned to tech after a financial situation prevented me from completing a degree in Accounting. 😞
+- I am a receipient of the Digiata Scholarship at CodeSpace 🎊
+- The world of tech and, coding in particular, has been a really challenging but exciting experience for me and I cannot wait to take advantage of all it has to offer. 😃
 
 ## 🧍Pronouns
 She/Her
