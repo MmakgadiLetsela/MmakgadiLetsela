@@ -16,15 +16,13 @@ She/Her
 - Responsive Design
 
 ## 🛫 Currently learning
-CSS frameworks:
--Boostrap
--Tailwind
+- Javascript loops
 
 ## Looking to collaborate on: 
 Anything and everything. I appreciate any opportunity for growth. 
 
 ## ⚙️ Currently working on 
-Piece of final portfolio. 
+- Open source projects. 
 
 ## 📂 My Projects
 Check out some of the projects I have completed in the pinned repos below.
