@@ -14,15 +14,17 @@ She/Her
 - HTML
 - CSS
 - Responsive Design
+- Javascript
+- React
 
 ## 🛫 Currently learning
-- Javascript loops
+- Advanced React
 
 ## Looking to collaborate on: 
 Anything and everything. I appreciate any opportunity for growth. 
 
 ## ⚙️ Currently working on 
-- Open source projects. 
+- Portfolio website. 
 
 ## 📂 My Projects
 Check out some of the projects I have completed in the pinned repos below.
