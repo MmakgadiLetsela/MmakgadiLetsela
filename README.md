@@ -33,7 +33,7 @@ Check out some of the projects I have completed in the pinned repos below.
 I have never been on an airplane and hope that soon I will be able to tick that goal off. 
 
 ## 📱 How to contact me
-- LinkedIn: www.linkedin.com/in/mmakgadi-letsela-5bb4ab373
+- LinkedIn: www.linkedin.com/in/mmakgadi-letsela
 - Email: <mmakgadi.letsela@gmail.com>
 
 Thank you for visiting my github 🧚‍♀️
